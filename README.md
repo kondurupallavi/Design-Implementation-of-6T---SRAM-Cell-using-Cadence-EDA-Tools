@@ -63,6 +63,6 @@ The aim is to design and implement a 6T SRAM (Static Random-Access Memory) cell 
 ## Results:
 1. Successfully designed the 6T SRAM cell schematic using Cadence EDA tools.
 2. Performed transient analysis, verifying the read and write operations of the SRAM cell.
-3. Observed correct switching behavior in response to control signals.
+3. Observed correct switching behavior in response to control signals..
 
 
