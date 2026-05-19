@@ -10,7 +10,7 @@ The aim is to design and implement a 6T SRAM (Static Random-Access Memory) cell 
 - **Spectre Simulator** (for circuit simulation)
 
 ### Process Design Kit (PDK)
-- CMOS technology library (45nm node)  
+- CMOS technology library (45nm node)  .
 
 ### Computer System
 - Minimum **4GB RAM** and a **multi-core processor**
